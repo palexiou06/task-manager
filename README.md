@@ -5,3 +5,4 @@ On every push to main, GitHub Actions builds a Docker image, runs the app and th
 and updates index.html with the task lists and test results.
 Merged pull requests are tracked on a GitHub Projects board.
 <-jar change -->
+<-jar change -->
